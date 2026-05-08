@@ -43,4 +43,4 @@ Open `main.ipynb` in VS Code and select the `nlp-topic-modeling` kernel.
 Comcast Telecom Complaints Dataset (Kaggle)
 
 ## Author
-Elena Slizkova
+GitHub: 9224365
